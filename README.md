@@ -26,24 +26,8 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART
  <a href = "https://codepen.io/https://codepen.io/NayanSiddique" target="_blank"><img src="[https://img.icons8.com/fluency/48/000000/portfolio.png](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
-## 📊 My Github Stats
-
-<br/>
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=10.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117
-            </a>
-        </td>
-    </tr>
-</table>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=10.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117
-             <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=10.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&hide=javascript,css,scss,html&theme=tokyonight)
 
