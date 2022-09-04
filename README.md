@@ -27,12 +27,9 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=md-siam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alams Siddique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nayan130)  
 
 ![Profile views](https://gpvc.arturio.dev/nayan130)  
