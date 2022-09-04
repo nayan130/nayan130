@@ -1,4 +1,3 @@
-![I am a Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/279512732_3383748921852421_6205048965918170242_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=WcxW9fn1n_oAX-ulfGV&tn=DIKSMAqdD9Yvg4jI&_nc_ht=scontent.fdac24-1.fna&oh=00_AT9SbR0b2hvxH0rzm-lSNdaXWFIyjGKBhrHxWqKPnMhnuw&oe=6294FF95)
 
 ### Hi there 👋, I'm Nura Alam Siddique
 #### I am a Developer
