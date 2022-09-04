@@ -42,7 +42,7 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART
     </tr>
 </table>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=10.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&hide=javascript,css,scss,html&theme=tokyonight)
 
