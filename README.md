@@ -17,8 +17,7 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART / Flutter
 ## 🔗 Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/nura-alam-siddique/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://twitter.com/nayansiddique" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://www.facebook.com/https://www.facebook.com/profile.php?id=100006520387860" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://www.facebook.com/profile.php?id=100006520387860" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://www.instagram.com/nura_alams/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://nuraalam.ml/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
