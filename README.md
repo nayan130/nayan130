@@ -45,13 +45,10 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART
 <br/>
 <br/>
 
-<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=md-siam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nayan130/github-readme-activity-graph"><img alt="Nura Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayan130&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
-<h2 align="center>"
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=12.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</h2>
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&hide=javascript,css,scss,html&theme=tokyonight)
