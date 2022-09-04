@@ -17,7 +17,7 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART / Flutter
 ## 🔗 Connect with me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/nura-alam-siddique/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href = "https://twitter.com/Md_Siam03" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href = "https://twitter.com/nayansiddique" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://www.facebook.com/https://www.facebook.com/profile.php?id=100006520387860" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://www.instagram.com/nura_alams/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href = "https://nuraalam.ml/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -25,7 +25,7 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART / Flutter
 
 <p align="center">
 <a href="https://github.com/nayan130/github-readme-stats"><img alt="Nura Alams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alams Siddique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/nayan130/github-readme-stats"><img alt="Nura Alams Siddique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <a href="https://github.com/nayan130/github-readme-activity-graph"><img alt="Nura Alam Siddique's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayan130&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
