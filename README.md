@@ -30,6 +30,8 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alams Siddique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nayan130)  
+<a href="https://github.com/nayan130/github-readme-activity-graph"><img alt="Nura Alam Siddique's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nayan130&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nayan130)   -->
 
 ![Profile views](https://gpvc.arturio.dev/nayan130)  
