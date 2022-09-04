@@ -26,6 +26,29 @@ Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART
  <a href = "https://codepen.io/https://codepen.io/NayanSiddique" target="_blank"><img src="[https://img.icons8.com/fluency/48/000000/portfolio.png](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
+## 📊 My Github Stats
+
+<br/>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nayan130&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=10.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117
+            </a>
+        </td>
+    </tr>
+</table>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
+<br/>
+<br/>
+
+<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Md. Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=md-siam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+
 <h2 align="center>"
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nura Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan130&langs_count=12.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </h2>
