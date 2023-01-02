@@ -7,8 +7,8 @@ I am a Student of Computer Science and Engineering. Recently I have completed my
 Skills: HTML / CSS / JS / PHP / PYTHON / JAVA / C / DART / Flutter
 
 - 🔭 I’m currently working on Research Paper 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on Github 
+- 🌱 I’m have learn Flutter (Can develop both IOS and Android Apps)
+- 👯 I’m looking to work on Software Engineer
 <!-- - 💬 Ask me about Developing any Software  -->
 
 <h3 align="left">Languages and Tools:</h3>
