@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Nura Alam Siddique
-#### I am a Flutter Developer
+#### I am a Software Engineer
 
 I am a Student of Computer Science and Engineering. Recently I have completed my BSc from Green University Bangladesh. Now I am developing apps using Flutter for both IOS and Android. I have already developed many software using Flutter. Also I have interested in UI/UX Design, Programming, AutoCAD etc.
 
